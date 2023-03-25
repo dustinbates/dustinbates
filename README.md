@@ -29,4 +29,4 @@ After over 10 years of experience in the hardware side of tech, I found a new pa
 
 
 "I see now that the circumstances of one's birth is irrelevent,it is what you do with the gift of life that determines who you are." 
-    - Mewtwo
+    -Mewtwo
