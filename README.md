@@ -28,4 +28,5 @@ After over 10 years of experience in the hardware side of tech, I found a new pa
 - ⚡ Fun facts: I am an avid gamer - I love reading fantasy and sci-fi novels - I am a (hopeless) pianist - I love outer space 
 
 
-"I see now that the circumstances of one's birth is irrelevent,it is what you do with the gift of life that determines who you are." - Mewtwo
+"I see now that the circumstances of one's birth is irrelevent,it is what you do with the gift of life that determines who you are." 
+    - Mewtwo
