@@ -31,6 +31,7 @@ After over 10 years of experience in the hardware side of tech, I found a new pa
 "I see now that the circumstances of one's birth is irrelevent,it is what you do with the gift of life that determines who you are." 
     -Mewtwo
     
+<div align="center">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" title="vscode"/>     
 <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" title="html5"/> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" title="javaScript"/> 
@@ -44,6 +45,7 @@ After over 10 years of experience in the hardware side of tech, I found a new pa
 <img src="https://img.shields.io/badge/C%20Sharp-239120.svg?style=for-the-badge&logo=C-Sharp&logoColor=white" title="C#"/> 
 <img src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" title=".NET"/> 
 <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" title="MySQL"/>
+</div>
  
  
 
