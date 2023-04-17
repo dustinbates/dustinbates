@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Dustin Bates. I am an aspiring software developer, currently working to complete my education at Boise CodeWorks. I have a passion for creative problem-solving that is boosted by my quick-learning and talent for analytical thinking and communication. 
+My name is Dustin Bates. I am an aspiring software developer with a passion for creative problem-solving, boosted by my quick-learning and talent for analytical thinking and communication. 
 
 After over 10 years of experience in the hardware side of tech, I found a new passion in the software side and am eager to persue it further. I know how all the insides of a computer work, now I want to know how it's "brain" works too! 
 
-- 🌱 I’m currently learning: HTML, CSS, JavaScript, Bootstrap, Node.js, Vue.js, MongoDb, C#, MySQL
+- 🌱 I’m proficient with: HTML, CSS, JavaScript, Bootstrap, Node.js, Vue.js, MongoDb, C#, MySQL
 
 - 📫 How to reach me: 
     - https://www.linkedin.com/in/dustinbates94/
